@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -30,4 +30,5 @@ Final Interview
 As the final stage of the selection process, gear up for the interview and get hired.</p>
     </div>
 </body>
+
 
