@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -7,7 +7,7 @@
 </head>
 <body>
     <div class="container">
-        <h1>IEEE LaunchPad Kerala Newsletter</h1>
+        
         <p>Launchpad Kerala 2024 is a premier job fair that brings together talented individuals and innovative companies in the technical and engineering fields. This collaboration between IEEE Kerala Section and GTech MuLearn aims to propel advancement and innovation within Kerala's employment landscape by facilitating the seamless exchange of ideas and expertise.</p>
         <p><strong>Call to Action:</strong> Join IEEE LaunchPad Kerala today and embark on a journey towards success. Exciting News! Registrations are live now. Visit our website <a href="https://launchpadkerala.com/">here</a> for further updates.</p>
         <p><strong>Latest Updates:</strong>Lots of young minds have already joined. Registration is still open, wait no more! Join Now
